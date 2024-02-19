@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f3bf819-5654-4ece-9f58-00929cef8872" name="Changes" comment="The README.md file provides detailed instructions for installing and setting up the project, including prerequisites and steps for running the application. This will make it easier for users to get started with the project." />
+    <list default="true" id="9f3bf819-5654-4ece-9f58-00929cef8872" name="Changes" comment="The README.md file provides detailed instructions for installing and setting up the project, including prerequisites and steps for running the application. This will make it easier for users to get started with the project.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -138,7 +140,21 @@
       <option name="project" value="LOCAL" />
       <updated>1708351892773</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="The README.md file provides detailed instructions for installing and setting up the project, including prerequisites and steps for running the application. This will make it easier for users to get started with the project.">
+      <created>1708351906832</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708351906832</updated>
+    </task>
+    <task id="LOCAL-00004" summary="The README.md file provides detailed instructions for installing and setting up the project, including prerequisites and steps for running the application. This will make it easier for users to get started with the project.">
+      <created>1708352098937</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708352098937</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

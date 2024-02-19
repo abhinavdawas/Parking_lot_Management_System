@@ -38,6 +38,3 @@ Once the application is running, you can enter commands through the command line
 
 Follow the instructions provided by the application for more details on each command.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
