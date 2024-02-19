@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f3bf819-5654-4ece-9f58-00929cef8872" name="Changes" comment="The README.md file provides detailed instructions for installing and setting up the project, including prerequisites and steps for running the application. This will make it easier for users to get started with the project.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9f3bf819-5654-4ece-9f58-00929cef8872" name="Changes" comment="Some changes in Read.me file">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708352098937</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Some changes in Read.me file">
+      <created>1708352769821</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708352769821</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -170,6 +177,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="The README.md file provides detailed instructions for installing and setting up the project, including prerequisites and steps for running the application. This will make it easier for users to get started with the project." />
-    <option name="LAST_COMMIT_MESSAGE" value="The README.md file provides detailed instructions for installing and setting up the project, including prerequisites and steps for running the application. This will make it easier for users to get started with the project." />
+    <MESSAGE value="Some changes in Read.me file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Some changes in Read.me file" />
   </component>
 </project>
